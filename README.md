@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diekerk
 - 👀 I’m interested in Python programming, scripting, etc. 
-- 🌱 I’m currently learning Pythong, C++
+- 🌱 I’m currently learning Python, C++
 - 💞️ I’m looking to collaborate on projects I can learn. 
 - 📫 How to reach me diekerk@gmail.com
 
